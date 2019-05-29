@@ -39,7 +39,7 @@ _Guarda los solvers en C:\Windows\System32, es posible que sea necesario copiarl
 
 ## Deployment 📦
 
-![](https://youtu.be/jEyH3x6Mopw)
+[![](http://img.youtube.com/vi/jEyH3x6Mopw/0.jpg)](http://www.youtube.com/watch?v=jEyH3x6Mopw "")
 
 ## Autores ✒️
 
